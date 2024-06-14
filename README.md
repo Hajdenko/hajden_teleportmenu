@@ -1,2 +1,1 @@
-# hajden_teleportmenu
-Simple teleport menu
+there are better teleport scripts out there, its not even rp friendly
