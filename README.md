@@ -1,1 +1,1 @@
-there are better teleport scripts out there, its not even rp friendly
+This was for my old PvP server, it is not rp friendly.
